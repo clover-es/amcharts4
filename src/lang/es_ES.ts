@@ -129,6 +129,7 @@ export default {
 	"Image": "Imagen",
 	"Data": "Datos",
 	"Print": "Imprimir",
+	"Annotate": "Anotar",
 	"Click, tap or press ENTER to open": "Haga clic, toque o presione ENTER para abrir",
 	"Click, tap or press ENTER to print.": "Haga clic, toque o presione ENTER para imprimir",
 	"Click, tap or press ENTER to export as %1.": "Haga clic, toque o presione ENTER para exportar como %1.",
